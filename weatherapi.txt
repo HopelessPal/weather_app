@@ -1,0 +1,19 @@
+c08dec3ed5c519f2a07e907651dd758e
+
+1. take the location of the user
+2. show the weather of the user from the current location:
+	i. the weather things are taken from the console where each attribute is taken from it's keyword.
+	ii. for eg. we take the latitude and the longitude from the console menu and then input the lat and long to the desired areas in order to show the location.
+3. we can use the search functionality to show the weather of other cities but then we gotta update all the attributes like the wind speed and all to the specifiedd areas
+
+
+                                                    OR
+
+we can just make a new page which would show us all the data whether be it today or some other day
+can i make it though is the question.
+
+
+breaking it down into parts and then working on it
+
+1. firstly I have to customise the search bar and make it so that it doesn't close on clicking the search bar and instead it should close when I press the close button.
+2. and then I have to change the function of the search bar's search icon such that I can use the search function which should not be that hard.
